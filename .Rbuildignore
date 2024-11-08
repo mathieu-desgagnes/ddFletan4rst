@@ -2,3 +2,4 @@
 ^\.Rproj\.user$
 exempleFit.Rdata
 R\testGraph.R
+^LICENSE\.md$

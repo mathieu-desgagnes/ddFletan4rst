@@ -1,5 +1,5 @@
 ^ddFletan4rst\.Rproj$
 ^\.Rproj\.user$
-^exempleFit.RData
-^R\testGraph.R
 ^LICENSE\.md$
+^exempleFit\.RData$
+^R/testGraph\.R$
